@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Insha-Siddiquii, working as senior software engineer :woman_technologist:
-- :woman_office_worker: I’m a tech-ethusiast, massively inspired from Flutter and has been working on it since past 1.9 years.
+- :woman_office_worker: I’m a tech-ethusiast, massively inspired from Flutter and has been working on it since 2019.
 - 🌱 I’m still learning and improving myself to the best. 
 - :handshake: I’m looking to collaborate on Flutter projects :raised_hands:
 - :writing_hand: I love to do techinical writing, especially on Flutter. Give me any topic & I'll do wonders :zap: :fire:
