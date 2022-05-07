@@ -11,10 +11,12 @@ Let's Connect Folks :cherry_blossom:
 Insha-Siddiquii/Insha-Siddiquii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---> 
-<h1 align="center">Hi 👋, I'm Insha-Siddiquii</h1>
+<h1 align="center">Hi 👋, I'm Insha Siddiqui</h1>
 <h3 align="center">I’m a tech-ethusiast & multipotentialite</h3>
 
-- 🔭 Massively inspired from Flutter and has been working on it since 2019.
+- 👩‍💻 Working as Senior Software Engineer
+
+- 🔭 Massively inspired from Flutter and has been working on it since 2019
 
 - 🌱 I’m still learning and improving myself to the best. Currently learning **Kotlin**
 
@@ -40,5 +42,7 @@ You can click the Preview link to take a look at your changes.
 <!--  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=insha-siddiquii" alt="insha-siddiquii" /></a> </p> -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=insha-siddiquii&show_icons=true&locale=en&layout=compact" alt="insha-siddiquii" /></p>
+
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=insha-siddiquii&show_icons=true&locale=en" alt="insha-siddiquii" /></p>
