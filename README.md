@@ -30,6 +30,8 @@ You can click the Preview link to take a look at your changes.
 
 - ⚡ Fav Quote: **Ideas are only survive, If we are there to defend them**
 
+- 📨 <a href=https://linktr.ee/inshasiddiquii>Work handle</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/insha-siddiqui-8b1159ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="insha siddiqui" height="30" width="40" /></a>
