@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 Massively inspired from Flutter and has been working on it since 2019
 
-- 🌱 I’m still learning and improving myself to the best. Currently learning **Kotlin**
+- 🌱 I’m still learning and improving myself to the best. 
 
 - ✍️ I love to do techinical writing, especially on Flutter. Give me any topic & I'll do wonders ⚡ 🔥 <a href='https://inshasiddiqui.medium.com/'> Insha's Medium.com</a>
 
