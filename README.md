@@ -43,8 +43,8 @@ You can click the Preview link to take a look at your changes.
 
 <!--  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=insha-siddiquii" alt="insha-siddiquii" /></a> </p> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=insha-siddiquii&show_icons=true&locale=en&layout=compact" alt="insha-siddiquii" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=insha-siddiquii&show_icons=true&locale=en&layout=compact" alt="insha-siddiquii" /></p>
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=insha-siddiquii&show_icons=true&locale=en" alt="insha-siddiquii" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=insha-siddiquii&show_icons=true&locale=en" alt="insha-siddiquii" /></p> -->
