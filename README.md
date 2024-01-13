@@ -1,4 +1,4 @@
-<!-- - 👋 Hi, I’m @Insha-Siddiquii, working as senior software engineer :woman_technologist:
+<!-- - 👋 Hi, I’m @Insha-Siddiquii, working as software engineer :woman_technologist:
 - :woman_office_worker: I’m a tech-ethusiast, massively inspired from Flutter and has been working on it since 2019.
 - 🌱 I’m still learning and improving myself to the best. 
 - :handshake: I’m looking to collaborate on Flutter projects :raised_hands:
@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Insha Siddiqui</h1>
 <h3 align="center">I’m a tech-ethusiast & multipotentialite</h3>
 
-- 👩‍💻 Working as Senior Software Engineer
+- 👩‍💻 Working as Software Engineer
 
 - 🔭 Massively inspired from Flutter and has been working on it since 2019
 
